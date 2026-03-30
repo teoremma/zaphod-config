@@ -18,5 +18,5 @@
 #
 ---
 include:
-  - board: xiao_ble
+  - board: seeeduino_xiao_ble
     shield: zaphod_lite 
