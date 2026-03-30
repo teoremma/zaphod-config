@@ -18,4 +18,5 @@
 #
 ---
 include:
-  - board: zaphod_lite
+  - board: xiao_ble
+    shield: zaphod_lite 
